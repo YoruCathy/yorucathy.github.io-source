@@ -7,18 +7,12 @@ disableFancyImage: true
 ::IndexHeader
 ::
 
-## 🦸🏻‍♂️ About Me
+## 🐱 About Me
 
-🔊 *My name pounces as: Yi-Chin*
-
-I am a fourth-year Computer Science M.S./Ph.D. student at [Worcester Polytechnic Institute (WPI)](https://wpi.edu) and a proud member of [The Cake Lab](https://cake-lab.github.io) research group.
-I feel extremely fortunate to be advised by my kind and wise advisor [Prof. Tian Guo](https://tianguo.info).
-I am interested in designing system supports and optimizations for Augmented Reality (AR) applications.
-My recent research has a strong focus on designing system support for AR environment lighting understanding and photorealistic rendering.
-
-Prior to WPI, I obtained my Bachelor's degree in Software Engineering from [Tianjin Normal University (TJNU)](https://tjnu.edu.cn), Tianjin, China in 2019.
-During my undergraduate study, I worked with [Prof. Ziping Zhao](https://www.researchgate.net/profile/Ziping-Zhao-2) on audio signal processing, speech emotion recognition, and affective computing.
-In the past, I interned at [Baidu](https://baidu.com) (Summer 2018), [Kuaishou Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html) in Spring 2022, and [GoogleARVR](https://arvr.google.com) in Summer/Fall 2022.
+My name is Ruolin Ye. I am a first-year Ph.D. student at Cornell University supervised by [Prof. Tapomayukh Bhattacharjee](https://sites.google.com/site/tapomayukh). Before that, I worked as an intern at ZenusTech supervised by [Dr. Xinxin Zhang](https://zhxx1987.github.io/). I worked with [Prof. Cewu Lu](https://www.mvig.org/), in MVIG Lab during my undergrad at Shanghai Jiao Tong University. 
+My research interest includes human-robot interaction, intelligent devices, and simulation.
+If you find any research interest we may share, or some intersection on projects I am working on, please feel free to drop me an Email. I am always open to collaboration.
+In my spare time, I enjoy [sketching](https://www.instagram.com/p/Cmf3pXtOFh1/?utm_source=ig_web_copy_link), [watching musicals](https://www.instagram.com/p/CRWg7z9grr0/), and making [cocktails](https://www.instagram.com/p/CPifY_Vg7VY/).
 
 
 ## 📰 News
@@ -26,199 +20,186 @@ In the past, I interned at [Baidu](https://baidu.com) (Summer 2018), [Kuaishou Y
 ::ShortNews
 ::
 
-[More news >>>](/news/)
+<!-- [More news >>>](/news/) -->
 
 ## 🥷 Experiences
 
-::ExperienceRow{icon=google.png}
-**Google, Mountain View, CA**\
-Student Researcher\
-May 2022 - Present
+::ExperienceRow{icon=cornell.png}
+**Cornell University, Ithaca, NY**\
+Ph.D. Student in Computer Science\
+Aug 2022 - Present
 ::
 
-::ExperienceRow{icon=wpi.png}
-**Worcester Polytechnic Institute, Worcester, MA**\
-Ph.D. Student in [TheCakeLab](https://cake.wpi.edu), advised by [Prof. Tian Guo](https://tianguo.info)\
-Aug 2021 - Present
+::ExperienceRow{icon=sjtu.png}
+**Shanghai Jiao Tong University, Shanghai, China**\
+Bachelor of Engineering in Information Engineering\
+Sep 2018 - Aug 2022
 ::
 
-::ExperienceRow{icon=kuaishou.png}
-**Kuaishou Technology, Palo Alto, CA**\
-Research Intern\
-Jan, 2022 - May, 2022
-::
-
-::ExperienceRow{icon=baidu.png}
-**Baidu, Beijing, China**\
-Software Engineering Intern\
-Jun, 2018 - Sept, 2018
-::
-
-::ExperienceRow{icon="tjnu.png"}
-**Tianjin Normal University, Tianjin, China**\
-Bachelor of Engineering in Software Engineering\
-Sept, 2015 - Jun, 2019
-::
 
 ## 📄 Publications
 
-::PublicationRow
----
-title: "LitAR: Visually Coherent Lighting for Mobile Augmented Reality"
-thumbnail: litar-ubicomp22.png
-type: journal
-authors:
-    - Yiqin Zhao
-    - Chongyang Ma
-    - Haibin Huang
-    - Tian Guo
-venue:
-    acronym: IMWUT
-    year: 2022
-    name: "The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
-artifactLinks:
-    Paper: /assets/img/project/litar/litar_imwut22.pdf
-    Code (coming soon): /project/litar/
----
-::
 
 ::PublicationRow
 ---
-title: "Privacy-preserving Reflection Rendering for Augmented Reality"
-thumbnail: privacy-preserving-reflection.png
+title: "Visual-Tactile Sensing for In-Hand Object Reconstruction"
+thumbnail: vtaco.png
 type: conference
 authors:
-    - Yiqin Zhao
-    - Sheng Wei
-    - Tian Guo
+    - Wenqiang Xu*
+    - Zhenjun Yu*
+    - Han Xue 
+    - Ruolin Ye
+    - Siqiong Yao
+    - Cewu Lu
 venue:
-    acronym: ACMMM
-    year: 2022
-    name: 30th ACM International Conference on Multimedia
+    acronym: CVPR
+    year: 2023
+    name: The IEEE/CVF Conference on Computer Vision and Pattern Recognition
 artifactLinks:
-    paper: https://arxiv.org/abs/2207.03056
-    project: /project/privacy-preserving-reflection
+    Paper (coming soon):
+
 ---
 ::
 
 ::PublicationRow
 ---
-title: "FusedAR: Adaptive Environment Lighting Reconstruction for Visually Coherent Mobile AR Rendering"
-thumbnail: fusedar-ieeevrw22.png
-type: workshop
-authors:
-    - Yiqin Zhao
-    - Tian Guo
-venue:
-    acronym: IEEEVRW
-    year: 2022
-    name: IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
-artifactLinks:
-    paper: https://ieeexplore.ieee.org/document/9757380
----
-::
-
-
-::PublicationRow
----
-title: "Xihe: a 3D vision-based lighting estimation framework for mobile augmented reality"
-thumbnail: xihe-mobisys2021.png
+title: "GarmentTracking: Category-Level Garment Pose Tracking"
+thumbnail: garmentTracking.png
 type: conference
 authors:
-    - Yiqin Zhao
-    - Tian Guo
+    - Han Xue*
+    - Wenqiang Xu*
+    - Jieyi Zhang
+    - Tutian Tang
+    - Yutong Li
+    - Wenxin Du
+    - Ruolin Ye
+    - Cewu Lu
 venue:
-    acronym: MobiSys
+    acronym: CVPR
+    year: 2023
+    name: The IEEE/CVF Conference on Computer Vision and Pattern Recognition
+artifactLinks:
+    Paper (coming soon):
+---
+::
+
+::PublicationRow
+---
+title: "RCareWorld: A Human-centric Simulation World for Caregiving Robots"
+thumbnail: rcareworld.png
+type: conference
+authors:
+    - Ruolin Ye*
+    - Wenqiang Xu*
+    - Haoyuan Fu
+    - Rajat Kumar Jenamani
+    - Vy Nguyen
+    - Cewu Lu
+    - Katherine Dimitropoulou
+    - Tapomayukh Bhattacharjee 
+venue:
+    acronym: IROS
+    year: 2022
+    name: "Winner of Best RoboCup Paper, Finalist of Best Paper/Best Student Paper"
+artifactLinks:
+    Paper: https://drive.google.com/file/d/1k1OQ6xpr0G4DSw0lSFxrAYv5kO-a0M28/view
+    Code (coming soon): https://github.com/empriselab/RCareWorld
+    Website: https://emprise.cs.cornell.edu/rcareworld/
+    Presentation: https://www.youtube.com/watch?v=mNy1cloWrP0
+---
+::
+
+
+
+::PublicationRow
+---
+title: "RFUniverse: A Multiphysics Simulation Platform for Embodied AI"
+thumbnail: rfuniverse.png
+type: insubmission
+authors:
+    - Haoyuan Fu*
+    - Wenqiang Xu*
+    - Ruolin Ye*
+    - Han Xue
+    - Tutian Tang
+    - Yutong Li
+    - Wenxin Du
+    - Zhenjun Yu
+    - Jieyi Zhang
+    - Yongxi Huang
+    - Cewu Lu
+venue:
+    acronym: ArXiv
+    year: 2022
+    name: RSS demo track Under Review
+artifactLinks:
+    Website: https://sites.google.com/view/rfuniverse
+---
+::
+
+::PublicationRow
+---
+title: "H2O: A Benchmark for Visual Human-human Object Handover Analysis"
+thumbnail: h2o.png
+type: conference
+authors:
+    - Ruolin Ye*
+    - Wenqiang Xu* 
+    - Zhendong Xue
+    - Tutian Tang
+    - Yanfeng Wang
+    - Cewu Lu 
+venue:
+    acronym: ICCV
     year: 2021
-    name: The 19th ACM International Conference on Mobile Systems, Applications, and Services
+    name: International Conference on Computer Vision
 artifactLinks:
-    paper: https://dl.acm.org/doi/10.1145/3458864.3467886?cid=99659479290
-    project: /project/xihe/
+    Paper: https://openaccess.thecvf.com/content/ICCV2021/papers/Ye_H2O_A_Benchmark_for_Visual_Human-Human_Object_Handover_Analysis_ICCV_2021_paper.pdf
+    Website: https://sites.google.com/view/handover-h2o/home
 ---
 ::
 
+
 ::PublicationRow
 ---
-title: "PointAR: Efficient Lighting Estimation for Mobile Augmented Reality"
-thumbnail: pointar-eccv.png
-type: conference
+title: "Learning Universal Shape Dictionary for Realtime Instance Segmentation"
+thumbnail: usd-seg.png
+type: preprint
 authors:
-    - Yiqin Zhao
-    - Tian Guo
+    - Tutian Tang*
+    - Wenqiang Xu*
+    - Ruolin Ye
+    - Lixin Yang
+    - Cewu Lu
 venue:
-    acronym: ECCV
+    acronym: ArXiv
     year: 2020
-    name: 16th European Conference on Computer Vision
+    name: "Preprint"
 artifactLinks:
-    paper: https://arxiv.org/abs/2004.00006
-    project: /project/point-ar/
+    Paper: https://arxiv.org/pdf/2012.01050.pdf
+    Code: https://github.com/YoruCathy/USDSeg-FCOS
 ---
 ::
 
 ::PublicationRow
 ---
-title: "Exploring Deep Spectrum Representations via Attention-Based Recurrent and Convolutional Neural Networks for Speech Emotion Recognition"
-thumbnail: deep-spectrum-ieee.png
-type: journal
+title: "ContourRender: Detecting Arbitrary Contour Shape For Instance Segmentation In One Pass"
+thumbnail: contour.png
+type: preprint
 authors:
-    - Ziping Zhao
-    - Zhongtian Bao
-    - Yiqin Zhao
-    - Zixing Zhang
-    - Nicholas Cummins
-    - Zhao Ren
-    - Björn Schuller
+    - Tutian Tang*
+    - Wenqiang Xu*
+    - Ruolin Ye
+    - Yan-feng Wang
+    - Cewu Lu
 venue:
-    acronym: Access
-    year: 2019
-    name: "IEEE Access"
+    acronym: ArXiv
+    year: 2021
+    name: "Preprint"
 artifactLinks:
-    paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8762126
-    project: /project/deep-spectrum/
----
-::
-
-::PublicationRow
----
-title: "Deep Spectrum Feature Representations for Speech Emotion Recognition"
-thumbnail: deep-spectrum-acmmm.png
-type: conference
-authors:
-    - Ziping Zhao
-    - Yiqin Zhao
-    - Zhongtian Bao
-    - Haishuai Wang
-    - Zixing Zhang
-    - Chao Li
-venue:
-    acronym: ASMMC-MMAC
-    year: 2018
-    name: "4th Workshop on Affective Social Multimedia Computing and first Multi-Modal Affective Computing of Large-Scale Multimedia Data"
-artifactLinks:
-    paper: https://dl.acm.org/citation.cfm?doid=3267935.3267948
-    project: /project/deep-spectrum/
----
-::
-
-::PublicationRow
----
-title: "Exploring Spatio-Temporal Representations by Integrating Attention-based Bidirectional-LSTM-RNNs and FCNs for Speech Emotion Recognition"
-thumbnail: deep-spectrum-interspeech.png
-type: conference
-authors:
-    - Ziping Zhao
-    - Yu Zheng
-    - Zixing Zhang
-    - Haishuai Wang
-    - Yiqin Zhao
-    - Chao Li
-venue:
-    acronym: INTERSPEECH
-    year: 2018
-    name: "Annual Conference of the International Speech Communication Association"
-artifactLinks:
-    paper: https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1477.pdf
-    project: /project/deep-spectrum/
+    Paper: https://arxiv.org/pdf/2106.03382.pdf
 ---
 ::
 
@@ -226,27 +207,26 @@ artifactLinks:
 
 **Academic services**
 
--  UbiComp 2022 student volunteer.
+-  Reviewer
+    - Conferences: ICCV 2023, CVPR 2022&2023, ECCV 2022, IROS 2022, ICRA 2023
+    - Jornals: Frontiers in Robotics and AI 
 
 **Awards**
 
-- ACM HotMobile 2020 Student Travel Grant.
-- China Collegiate Computing Contest, jointly held by Tsinghua University, Zhejiang University and Apple, Inc.
-    - 2017 national third prize, top 6%
-    - 2016 national third prize, top 10%
-- University Scholarship, Tianjin Normal University
-    - 2018 - 2019 academic first grade scholarship, top 10%
-    - Wang Kechang Culture and Technology Innovation Scholarship, ≤ 1%
-    - 2017 - 2018 academic year top grade scholarship, top 5%
-    - 2016 - 2017 academic year second grade scholarship, top 20%
-    - 2015 - 2016 academic year first grade scholarship, top 10%
+- IROS-SDC Travel Award, IROS 2022
+- RoboCup Best Paper Award, IROS 2022
+- Best Paper/Student Paper Finalist, IROS 2022
+- Bosch AIoT Scholarship, 2022
+- Queer in AI Grad Admissions Fee Aid, 2022
+- Honorable Mention, MCM/ICM Mathematical Contest 2020&2021
+
 
 ## 📧 Contacts
 
 ::contact-item
 ---
 icon: email
-url: mailto:yiqinzhao@outlook.com
+url: mailto:ry273@cornell.edu
 ---
 Email
 ::
@@ -254,7 +234,7 @@ Email
 ::contact-item
 ---
 icon: github
-url: https://github.com/YiqinZhao
+url: https://github.com/YoruCathy
 ---
 GitHub
 ::
@@ -262,15 +242,8 @@ GitHub
 ::contact-item
 ---
 icon: twitter
-url: https://twitter.com/yiqin_zhao
+url: https://twitter.com/Nekovowo
 ---
 Twitter
 ::
 
-::contact-item
----
-icon: instagram
-url: https://www.instagram.com/yiqinzhao1996
----
-Instagram
-::

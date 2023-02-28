@@ -4,11 +4,11 @@ const { path } = useRoute()
 const firstRoute = path.split('/')[1]
 const navigatorItems = [
     { path: '/', text: 'Home' },
-    { path: '/news/', text: 'News' },
-    { path: '/research/', text: 'Research' },
-    { path: '/project/', text: 'Projects' },
+    // { path: '/news/', text: 'News' },
+    // { path: '/research/', text: 'Research' },
+    // { path: '/project/', text: 'Projects' },
     // { path: '/blog/', text: 'Blog' },
-    { path: '/yiqinzhao-cv.pdf', text: 'CV' },
+    { path: 'https://drive.google.com/file/d/1Po4Wyp4GL9PAZxWUlNoW18bM9J0APMGV/view', text: 'CV' },
 ].map(v => {
     v.active = v.path.split('/')[1] === firstRoute
     return v
