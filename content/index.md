@@ -9,8 +9,8 @@ disableFancyImage: true
 
 ## 🐱 About Me
 
-My name is Ruolin Ye. I am a first-year Ph.D. student at Cornell University supervised by [Prof. Tapomayukh Bhattacharjee](https://sites.google.com/site/tapomayukh). Before that, I worked as an intern at ZenusTech supervised by [Dr. Xinxin Zhang](https://zhxx1987.github.io/). I worked with [Prof. Cewu Lu](https://www.mvig.org/), in MVIG Lab during my undergrad at Shanghai Jiao Tong University. 
-My research interest includes human-robot interaction, intelligent devices, and simulation.
+My name is Ruolin Ye. I am a second-year Ph.D. student at Cornell University supervised by [Prof. Tapomayukh Bhattacharjee](https://sites.google.com/site/tapomayukh). Before that, I worked as an intern at ZenusTech supervised by [Dr. Xinxin Zhang](https://zhxx1987.github.io/). I worked with [Prof. Cewu Lu](https://www.mvig.org/), in MVIG Lab during my undergrad at Shanghai Jiao Tong University. 
+My research interest includes human-robot collaboration and simulation.
 If you find any research interest we may share, or some intersection on projects I am working on, please feel free to drop me an Email. I am always open to collaboration.
 In my spare time, I enjoy [sketching](https://www.instagram.com/p/Cmf3pXtOFh1/?utm_source=ig_web_copy_link), [watching musicals](https://www.instagram.com/p/CRWg7z9grr0/), and making [cocktails](https://www.instagram.com/p/CPifY_Vg7VY/).
 
@@ -39,6 +39,29 @@ Sep 2018 - Aug 2022
 
 ## 📄 Publications
 
+::PublicationRow
+---
+title: "MORPHeus: a Multimodal One-armed Robot-assisted Peeling system with Human Users in-the-loop"
+thumbnail: peeling.png
+type: conference
+authors:
+    - Ruolin Ye
+    - Yifei Hu
+    - Yuhan (Anjelica) Bian
+    - Luke Kulm
+    - Tapomayukh Bhattacharjee
+venue:
+    acronym: In submission
+    year: 2023
+    name: In submission
+artifactLinks:
+    Paper (Coming soon): 
+    Website (Coming soon): 
+    Code (Coming soon): 
+    Dataset (Coming soon):
+---
+::
+
 
 ::PublicationRow
 ---
@@ -57,8 +80,10 @@ venue:
     year: 2023
     name: The IEEE/CVF Conference on Computer Vision and Pattern Recognition
 artifactLinks:
-    Paper (coming soon):
-
+    Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Visual-Tactile_Sensing_for_In-Hand_Object_Reconstruction_CVPR_2023_paper.pdf
+    Website: https://sites.google.com/view/vtaco/
+    Code: https://github.com/jeffsonyu/VTacO
+    Dataset: https://huggingface.co/datasets/robotflow/vtaco
 ---
 ::
 
@@ -81,7 +106,10 @@ venue:
     year: 2023
     name: The IEEE/CVF Conference on Computer Vision and Pattern Recognition
 artifactLinks:
-    Paper (coming soon):
+    Paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_GarmentTracking_Category-Level_Garment_Pose_Tracking_CVPR_2023_paper.pdf
+    Website: https://garment-tracking.robotflow.ai/
+    Dataset: https://huggingface.co/datasets/robotflow/vr-folding
+    Code: https://github.com/xiaoxiaoxh/GarmentTracking
 ---
 ::
 
@@ -102,13 +130,14 @@ authors:
 venue:
     acronym: IROS
     year: 2022
-    name: "Winner of Best RoboCup Paper, Finalist of Best Paper/Best Student Paper"
+    name: "IEEE/RSJ International Conference on Intelligent Robots and Systems"
 artifactLinks:
     Paper: https://drive.google.com/file/d/1k1OQ6xpr0G4DSw0lSFxrAYv5kO-a0M28/view
-    Code (coming soon): https://github.com/empriselab/RCareWorld
+    Code: https://github.com/empriselab/RCareWorld
     Website: https://emprise.cs.cornell.edu/rcareworld/
     Presentation: https://www.youtube.com/watch?v=mNy1cloWrP0
 ---
+<span class="text-red-700">Best RoboCup paper (Winner). Best paper/best student paper (Finalist).</span>
 ::
 
 
@@ -131,11 +160,12 @@ authors:
     - Yongxi Huang
     - Cewu Lu
 venue:
-    acronym: ArXiv
-    year: 2022
-    name: RSS demo track Under Review
+    acronym: RSS
+    year: 2023
+    name: Robotics Science and Systems
 artifactLinks:
     Website: https://sites.google.com/view/rfuniverse
+    Code: https://github.com/mvig-robotflow/pyrfuniverse
 ---
 ::
 
@@ -174,7 +204,7 @@ authors:
     - Lixin Yang
     - Cewu Lu
 venue:
-    acronym: ArXiv
+    acronym: arXiv
     year: 2020
     name: "Preprint"
 artifactLinks:
@@ -195,11 +225,12 @@ authors:
     - Yan-feng Wang
     - Cewu Lu
 venue:
-    acronym: ArXiv
+    acronym: arXiv
     year: 2021
     name: "Preprint"
 artifactLinks:
     Paper: https://arxiv.org/pdf/2106.03382.pdf
+hideBottomBorder: true
 ---
 ::
 
@@ -209,7 +240,7 @@ artifactLinks:
 
 -  Reviewer
     - Conferences: ICCV 2023, CVPR 2022&2023, ECCV 2022, IROS 2022, ICRA 2023
-    - Jornals: Frontiers in Robotics and AI 
+    - Jornals: Frontiers in Robotics and AI, Frontiers in Neurorobotics
 
 **Awards**
 

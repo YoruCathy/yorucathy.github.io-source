@@ -13,6 +13,7 @@ subtitle: "📢 Latest: I'm a Ph.D. candidate now!"
 
 ![](/assets/img/me-news-google.png)
 
+- **05/2023** 🎉 RFUniverse accepted by RSS 2023 Demo Track!
 - **02/2023** 🎉 2 papers accepted by CVPR 2023!
 - **10/2022** 🎉 RCareWorld won the RoboCup Best Paper Award!
 - **09/2022** 🎉 Received IROS-SDC Travel Award!
