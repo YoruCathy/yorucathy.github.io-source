@@ -1,4 +1,7 @@
 #!/bin/bash
+rm -rf ./.deploy
+rm -rf ./dist
+rm -rf ./output
 
 npm run generate
 
