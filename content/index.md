@@ -9,16 +9,11 @@ disableFancyImage: true
 
 ## 🐱 About Me
 
-My name is Ruolin Ye. I am a second-year Ph.D. student at Cornell University supervised by [Prof. Tapomayukh Bhattacharjee](https://sites.google.com/site/tapomayukh). Before that, I worked as an intern at ZenusTech supervised by [Dr. Xinxin Zhang](https://zhxx1987.github.io/). I worked with [Prof. Cewu Lu](https://www.mvig.org/), in MVIG Lab during my undergrad at Shanghai Jiao Tong University. 
-My research interest includes human-robot collaboration and simulation.
-If you find any research interest we may share, or some intersection on projects I am working on, please feel free to drop me an Email. I am always open to collaboration.
-In my spare time, I enjoy [sketching](https://www.instagram.com/p/Cmf3pXtOFh1/?utm_source=ig_web_copy_link), [watching musicals](https://www.instagram.com/p/CRWg7z9grr0/), and making [cocktails](https://www.instagram.com/p/CPifY_Vg7VY/).
+My name is Ruolin Ye. I am a second-year Ph.D. student at Cornell University supervised by [Prof. Tapomayukh Bhattacharjee](https://sites.google.com/site/tapomayukh). I worked with [Prof. Cewu Lu](https://www.mvig.org/), in MVIG Lab during my undergrad at Shanghai Jiao Tong University. 
 
+My broad research interest is robotic caregiving, and I am especially interested in the task of transferring. I study how to coordinate multiple instrumented assistive devices to complete this task. I am also interested in simulation. I am leading the [RCareWorld](https://emprise.cs.cornell.edu/rcareworld/) simulation project. 
 
-## 📰 News
-
-::ShortNews
-::
+In my spare time, I volunteer at [Wonderful Wheelchairs](https://www.wonderfulwheelchairs.info/home), a local non-profit organization that repairs and sells assistive devices to people with a low cost. I enjoy horseback riding, sketching, making cocktails, and spending time with my cat. 
 
 <!-- [More news >>>](/news/) -->
 
@@ -38,6 +33,26 @@ Sep 2018 - Aug 2022
 
 
 ## 📄 Publications
+::PublicationRow
+---
+title: "REPeat: A Real2Sim2Real Approach for Pre-acquisition of Soft Food Items in Robot-assisted Feeding"
+thumbnail: repeat.png
+type: conference
+authors:
+    - Nayoung Ha* 
+    - Ruolin Ye* 
+    - Ziang Liu
+    - Shubhangi Sinha
+    - Tapomayukh Bhattacharjee
+venue:
+    acronym: IROS
+    year: 2024
+    name: International Conference on Intelligent Robots and Systems
+artifactLinks:
+    Paper: https://arxiv.org/abs/2410.10017
+    Website: https://emprise.cs.cornell.edu/repeat/
+---
+::
 
 ::PublicationRow
 ---
@@ -51,17 +66,37 @@ authors:
     - Luke Kulm
     - Tapomayukh Bhattacharjee
 venue:
-    acronym: In submission
-    year: 2023
-    name: In submission
+    acronym: ICRA
+    year: 2024
+    name: IEEE International Conference on Robotics and Automation
 artifactLinks:
-    Paper (Coming soon): 
-    Website (Coming soon): 
-    Code (Coming soon): 
-    Dataset (Coming soon):
+    Paper: https://ieeexplore.ieee.org/abstract/document/10610050
+    Website: https://emprise.cs.cornell.edu/morpheus/
+
 ---
 ::
 
+::PublicationRow
+---
+title: "ClothPose: A Real-world Benchmark for Visual Analysis of Garment Pose via An Indirect Recording Solution"
+thumbnail: clothpose.png
+type: conference
+authors:
+    - Wenqiang Xu
+    - Wenxin Du
+    - Han Xue 
+    - Yutong Li
+    - Ruolin Ye
+    - Yan-feng Wang
+    - Cewu Lu
+venue:
+    acronym: ICCV (Oral)
+    year: 2023
+    name: International Conference on Computer Vision
+artifactLinks:
+    Paper: https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_ClothPose_A_Real-world_Benchmark_for_Visual_Analysis_of_Garment_Pose_ICCV_2023_paper.pdf
+---
+::
 
 ::PublicationRow
 ---
@@ -239,11 +274,11 @@ hideBottomBorder: true
 **Academic services**
 
 -  Reviewer
-    - Conferences: ICCV 2023, CVPR 2022&2023, ECCV 2022, IROS 2022, ICRA 2023
-    - Jornals: Frontiers in Robotics and AI, Frontiers in Neurorobotics
+    - Conferences: ICCV 2023, CVPR 2022&2023, ECCV 2022, IROS 2022-2024, ICRA 2023-2024, HRI 2025
+    - Jornals: Frontiers in Robotics and AI, Frontiers in Neurorobotics, T-RO
 
 **Awards**
-
+- Outstading teaching assistant, Cornell 2024
 - IROS-SDC Travel Award, IROS 2022
 - RoboCup Best Paper Award, IROS 2022
 - Best Paper/Student Paper Finalist, IROS 2022
@@ -278,3 +313,10 @@ url: https://twitter.com/Nekovowo
 Twitter
 ::
 
+::contact-item
+---
+icon: wechat
+url: https://drive.google.com/file/d/1ftw-1Aae2tOVMPGso8DssAn4DNUpGmaJ/view?usp=sharing
+---
+Wechat
+::

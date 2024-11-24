@@ -37,10 +37,10 @@ footer {
                                 <img class="inline dark:invert w-6 mr-3 opacity-75 hover:opacity-100 transition-opacity m-0"
                                     src="/assets/img/icons/twitter.svg" alt="">
                             </a>
-                            <!-- <a href="https://www.instagram.com/yiqinzhao1996">
+                            <a href="https://scholar.google.com/citations?user=fCy8NOUAAAAJ&hl=en">
                                 <img class="inline dark:invert w-6 mr-3 opacity-75 hover:opacity-100 transition-opacity m-0"
-                                    src="/assets/img/icons/instagram.svg" alt="">
-                            </a> -->
+                                    src="/assets/img/icons/google-scholar.svg" alt="">
+                            </a>
                         </span>
                     </p>
                 </div>

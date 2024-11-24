@@ -8,7 +8,7 @@ const navigatorItems = [
     // { path: '/research/', text: 'Research' },
     // { path: '/project/', text: 'Projects' },
     // { path: '/blog/', text: 'Blog' },
-    { path: 'https://drive.google.com/file/d/1Po4Wyp4GL9PAZxWUlNoW18bM9J0APMGV/view', text: 'CV' },
+    { path: 'https://drive.google.com/file/d/1ymWkcZ9Qv3MOCyV754qzYLHcJ6Et03Yh/view?usp=sharing', text: 'CV' },
 ].map(v => {
     v.active = v.path.split('/')[1] === firstRoute
     return v
