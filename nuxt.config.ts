@@ -1,14 +1,18 @@
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
+  ssr: true,
+
   modules: [
     '@nuxt/content',
     '@nuxtjs/tailwindcss',
     '@nuxtjs/color-mode'
   ],
+
   colorMode: {
     classSuffix: '',
     classPrefix: '--'
   },
+
   // https://content.nuxtjs.org
   content: {
     documentDriven: true,
@@ -29,8 +33,11 @@ export default defineNuxtConfig({
       ]
     }
   },
+
   components: [{
     path: '~/components',
     global: true
-  }]
+  }],
+
+  compatibilityDate: '2025-02-02'
 })
