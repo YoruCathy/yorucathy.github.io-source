@@ -9,7 +9,7 @@ disableFancyImage: true
 
 ## 🐱 About Me
 
-My name is Ruolin Ye. I am a second-year Ph.D. student at Cornell University supervised by [Prof. Tapomayukh Bhattacharjee](https://sites.google.com/site/tapomayukh). I worked with [Prof. Cewu Lu](https://www.mvig.org/), in MVIG Lab during my undergrad at Shanghai Jiao Tong University. 
+My name is Ruolin Ye. I am a third-year Ph.D. student at Cornell University supervised by [Prof. Tapomayukh Bhattacharjee](https://sites.google.com/site/tapomayukh). I worked with [Prof. Cewu Lu](https://www.mvig.org/), in MVIG Lab during my undergrad at Shanghai Jiao Tong University. 
 
 My broad research interest is robotic caregiving, and I am especially interested in the task of transferring. I study how to coordinate multiple instrumented assistive devices to complete this task. I am also interested in simulation. I am leading the [RCareWorld](https://emprise.cs.cornell.edu/rcareworld/) simulation project. 
 
