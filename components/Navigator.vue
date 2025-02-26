@@ -7,8 +7,8 @@ const navigatorItems = [
     // { path: '/news/', text: 'News' },
     // { path: '/research/', text: 'Research' },
     // { path: '/project/', text: 'Projects' },
-    // { path: '/blog/', text: 'Blog' },
-    { path: 'https://drive.google.com/file/d/1ymWkcZ9Qv3MOCyV754qzYLHcJ6Et03Yh/view?usp=sharing', text: 'CV' },
+    { path: 'https://drive.google.com/file/d/1D0gM2Ga2SnelkqpGLMh9su7n8TSvqdZA/view?usp=sharing', text: 'CV' },
+    { path: '/misc/', text: 'Misc' },
 ].map(v => {
     v.active = v.path.split('/')[1] === firstRoute
     return v
@@ -23,7 +23,7 @@ const activeItem = navigatorItems.filter(v => v.active)[0]
             <a class="text-xl font-bold hover:dark:text-white hover:text-black transition-colors" href="/">
                 <span :class="{ 'opacity-0': path === '/' }">
                     <img class="inline w-10 dark:invert transition-opacity opacity-60 hover:opacity-100"
-                        src="/assets/img/qin-logo.svg" alt="">
+                        src="/assets/img/cathy-logo.svg" alt="">
                 </span>
             </a>
 

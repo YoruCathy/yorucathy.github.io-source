@@ -7,13 +7,16 @@ disableFancyImage: true
 ::IndexHeader
 ::
 
-## 🐱 About Me
+## About Me
 
 My name is Ruolin Ye. I am a third-year Ph.D. student at Cornell University supervised by [Prof. Tapomayukh Bhattacharjee](https://sites.google.com/site/tapomayukh). I worked with [Prof. Cewu Lu](https://www.mvig.org/), in MVIG Lab during my undergrad at Shanghai Jiao Tong University. 
 
-My broad research interest is robotic caregiving, and I am especially interested in the task of transferring. I study how to coordinate multiple instrumented assistive devices to complete this task. I am also interested in simulation. I am leading the [RCareWorld](https://emprise.cs.cornell.edu/rcareworld/) simulation project. 
+My broad research interest is robotic caregiving, and I am especially interested in robot-assisted transferring. I study how to coordinate multiple instrumented assistive devices to complete this task. I am also interested in simulation. I am leading the [RCareWorld](https://emprise.cs.cornell.edu/rcareworld/) simulation project. 
 
-In my spare time, I volunteer at [Wonderful Wheelchairs](https://www.wonderfulwheelchairs.info/home), a local non-profit organization that repairs and sells assistive devices to people with a low cost. I enjoy horseback riding, sketching, making cocktails, and spending time with my cat. 
+I volunteer at [Wonderful Wheelchairs](https://www.wonderfulwheelchairs.info/home), a local non-profit organization that repairs and sells assistive devices to people with a low cost. 
+I manage the website and IT-related stuff while also leading outreach efforts.
+
+<!-- In my spare time, I enjoy horseback riding and I am particularly interested in endurance and dressage. I have a black domestic long hair cat (Shiloh) and a yellow lab (Stella). I enjoy spending time with them. -->
 
 <!-- [More news >>>](/news/) -->
 
